@@ -32,6 +32,5 @@
         "RedKiteLabs\\BootstrapBundle": ""
     }
   },
-  "minimum-stability": "dev",
   "target-dir" : "RedKiteLabs/BootstrapBundle"
 }
