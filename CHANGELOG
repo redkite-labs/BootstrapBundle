@@ -1,3 +1,6 @@
+RedKiteLabsBundlesAutoloaderBundle 1.1.1 (2014/01/18) 
+5eef616 removed minimum stability flag from composer.json
+
 RedKiteLabsBundlesAutoloaderBundle 1.1.0 (2013/12/02) 
 d1a6d62 updated README
 bb05cbb removed scripting functionalities
