@@ -35,7 +35,7 @@ At last the bundle must be added to the AppKernel.php file:
     public function registerBundles()
     {
         $bundles = array(
-            new RedKiteLabs\BootstrapBundle\RedKiteLabsBootstrapBundle(),
+            new RedKiteLabs\RedKiteCms\BootstrapBundle\RedKiteLabsBootstrapBundle(),
 
             [...]
         );
